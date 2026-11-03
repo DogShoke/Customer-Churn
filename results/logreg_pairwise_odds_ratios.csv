@@ -1,0 +1,8 @@
+A,B,odds_ratio_A_vs_B
+Contract_Month-to-month,Contract_Two year,3.837256115856663
+Contract_Month-to-month,Contract_One year,2.013656155294451
+InternetService_Fiber optic,InternetService_DSL,3.653278787506342
+PaymentMethod_Electronic check,PaymentMethod_Credit card (automatic),1.512992424208045
+PaymentMethod_Electronic check,PaymentMethod_Bank transfer (automatic),1.4677960908800534
+OnlineSecurity_No,OnlineSecurity_Yes,1.3865019656779334
+TechSupport_No,TechSupport_Yes,1.3169739705407744
